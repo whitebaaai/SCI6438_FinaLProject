@@ -1,1 +1,1 @@
-# SCI6438_FinaLProject
+# SCI6438_FinalProject
