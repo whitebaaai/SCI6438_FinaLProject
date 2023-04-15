@@ -24,7 +24,7 @@ https://docs.google.com/presentation/d/1VRtcdRI_ICP46kj-lAZ3jIZxUMAZSUL73vVILYfl
 
 4. Create user control 
   a. Hooking Leapcamera up with Unity as navigating tool
-  
+
 5. Finalize demo 
   Record 1st-person perspective demo video of the game play
   
