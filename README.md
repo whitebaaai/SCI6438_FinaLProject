@@ -4,8 +4,9 @@ https://docs.google.com/presentation/d/1VRtcdRI_ICP46kj-lAZ3jIZxUMAZSUL73vVILYfl
 
 1. Setting up game environment in Unity
     a.obtain 3d model of circulatory system with Organs. 
-      - https://www.cgtrader.com/3d-models/science/medical/human-body-anatomy-with-multiple-systems
+      - https://www.cgtrader.com/3d-models/character/anatomy/human-digestive-system-02b488cc1d08969f0f7c6a97d01e5ba6
       - https://sketchfab.com/3d-models/circulatory-system-bf22cf96b1d44e2fb3375131491a505a
+      - https://www.nomadsreviews.co.uk/post/ten-levels-and-games-set-inside-something-s-body
     
         b. Turn 3d model into cubic or spherical mesh
 
